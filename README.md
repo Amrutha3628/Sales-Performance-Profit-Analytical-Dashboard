@@ -218,16 +218,6 @@ Visualizations
 * Year-wise Sales Performance
 * Year-wise Profit Performance
 
-Drill Down
-
-The Order Date hierarchy supports:
-
-Year → Quarter
-
-This allows users to explore performance at a more detailed time level.
-
-⸻
-
 5. Insights & Recommendations
 
 The final page summarizes the main business findings and recommendations from the dashboard.
@@ -301,23 +291,6 @@ Tooltips
 
 Additional measures were added to tooltips to provide more information without overcrowding the visuals.
 
-⸻
-
-🎨 Dashboard Design
-
-The dashboard uses a dark professional theme with orange and green accents.
-
-Main Colors
-
-* Dark Background: #0B0B0B
-* Orange Accent: #FF8C00
-* Profit Green: #22C55E
-* White Text: #FFFFFF
-* Secondary Text: #CBD5E1
-
-The dashboard maintains consistent spacing, alignment, typography, colors, and visual hierarchy across the pages.
-
-⸻
 
 📌 Key Learning Outcomes
 
